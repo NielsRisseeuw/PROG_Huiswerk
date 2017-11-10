@@ -29,3 +29,5 @@ weekendrit = input('Is uw reis in het weekend: ')
 leeftijd = eval(input('Wat is uw leeftijd: '))
 prijs = ritprijs(leeftijd, weekendrit, afstandKM)
 print('Uw reis kost: ' + str(prijs))
+
+
